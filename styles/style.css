@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 85.4861111111vw;
+}
+.container .logo img {
+  width: 9.5833333333vw;
+  height: 1.1111111111vw;
+  margin-left: 7.2222222222vw;
+  margin-top: 3.6805555556vw;
+}
+.container .list {
+  display: flex;
+  justify-content: center;
+  gap: 2.0833333333vw;
+  position: absolute;
+  top: 4.0277777778vw;
+  left: 38.1944444444vw;
+}
+.container .list a {
+  color: white;
+}
+.container .list-2 {
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  top: 4.0277777778vw;
+  right: 7.2222222222vw;
+  gap: 1.3888888889vw;
+}
+.container .list-2 a {
+  color: #808080;
+}
+
+.container-2 .header {
+  position: absolute;
+  top: 13.1944444444vw;
+  left: 36.7361111111vw;
+}
+.container-2 .header h1 {
+  color: white;
+  text-align: center;
+  font-size: 4.4444444444vw;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 5.2083333333vw;
+}
+.container-2 .text {
+  position: absolute;
+  top: 20.2083333333vw;
+  left: 40.6944444444vw;
+}
+.container-2 .text p {
+  color: white;
+  font-size: 1.1111111111vw;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 140%;
+  opacity: 0.5;
+}
+.container-2 .earth {
+  position: relative;
+}
+.container-2 .earth img {
+  position: absolute;
+  top: 18.0555555556vw;
+  left: 3.3333333333vw;
+}
+
+.container-3 .rocket {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+}
+.container-3 .rocket img {
+  position: absolute;
+  top: 79.8611111111vw;
+  right: 7.2222222222vw;
+}
+.container-3 .header-2 {
+  color: white;
+}
+.container-3 .header-2 h3 {
+  position: absolute;
+  top: 121.5277777778vw;
+  left: 7.2222222222vw;
+}
+.container-3 .info ul {
+  color: white;
+  position: absolute;
+  left: 7.2222222222vw;
+  top: 128.4722222222vw;
+}
+.container-3 .info ul li {
+  margin-bottom: 1.3888888889vw;
+}
+.container-3 .info-2 ul {
+  color: white;
+  position: absolute;
+  left: 24.3055555556vw;
+  top: 128.4722222222vw;
+}
+.container-3 .info-2 ul li {
+  margin-bottom: 1.3888888889vw;
+  opacity: 0.3;
+}
+.container-3 .header-3 h3 {
+  position: absolute;
+  top: 157.9861111111vw;
+  left: 7.2222222222vw;
+  color: white;
+}
+.container-3 .header-3 p {
+  color: white;
+  position: absolute;
+  top: 163.1944444444vw;
+  left: 7.2222222222vw;
+  font-weight: 400;
+  font-size: 1.1111111111vw;
+  font-style: normal;
+  line-height: 2.0138888889vw;
+  opacity: 0.3;
+}/*# sourceMappingURL=style.css.map */
