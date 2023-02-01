@@ -136,4 +136,46 @@ a {
   font-style: normal;
   line-height: 2.0138888889vw;
   opacity: 0.3;
+}
+
+.container-4 .logo-1 {
+  position: relative;
+}
+.container-4 .logo-1 img {
+  position: absolute;
+  top: 208.3333333333vw;
+  left: 45.1388888889vw;
+}
+
+.message {
+  display: flex;
+  justify-content: center;
+  gap: 1.7361111111vw;
+  margin-top: 212.1527777778vw;
+}
+.message a {
+  color: white;
+}
+
+.text-1 {
+  margin-top: 1.0416666667vw;
+}
+.text-1 p {
+  text-align: center;
+  color: white;
+  opacity: 0.4;
+}
+
+.button button {
+  background-color: black;
+  border: 1px solid white;
+  height: 2.0833333333vw;
+  width: 8.6805555556vw;
+  border-radius: 0.3472222222vw;
+  margin-left: 44.9305555556vw;
+  margin-top: 1.3888888889vw;
+  margin-bottom: 3.4722222222vw;
+}
+.button a {
+  color: white;
 }/*# sourceMappingURL=style.css.map */

@@ -161,5 +161,49 @@ a{
     }
 }
 
+.container-4{
+    .logo-1{
+        position: relative;
+        img{
+            position: absolute;
+            top: toVw(3000px);
+            left: toVw(650px);
+        }
+    }
+}   
 
+.message{
+    display: flex;
+    justify-content: center;
+    gap: toVw(25px);
+    margin-top: toVw(3055px);
+    a{
+        color: white;
+    }
+}    
 
+.text-1{
+    margin-top: toVw(15px);
+    
+    p{
+        text-align: center;
+        color: white;
+        opacity: 0.4;
+    }
+}
+
+.button{
+    button{
+        background-color: black;
+        border: 1px solid white;
+        height: toVw(30px);
+        width: toVw(125px);
+        border-radius: toVw(5px);
+        margin-left: toVw(647px);
+        margin-top: toVw(20px);
+        margin-bottom: toVw(50px);
+    }
+    a{
+        color: white;
+    }
+}
